@@ -1,0 +1,35 @@
+table, th, tr, td{
+    border: 1px solid black;
+    margin: auto;
+    
+}
+
+table th{
+    font-style: bold;
+    background-color: rgb(34,34,34);
+    color: white;
+    text-align: center;
+    width:1%;
+    overflow-x:auto;    
+}
+
+table tr{
+    text-align: center;
+    margin: auto;
+}
+
+#table-post input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#wrapper {
+    padding-left: 0;
+}
+
+.modal {
+    background: rgba(0, 0, 0, 0.5); 
+  }
+  .modal-backdrop {
+    display: none;
+  }
